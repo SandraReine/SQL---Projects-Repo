@@ -91,7 +91,14 @@ Examples included:
 - 📌 Exploring supplier relationships
 - 📌 Creating meaningful reports from multiple datasets
 
-SQL enabled complex datasets to be transformed into clear, accurate, and actionable business information. 
+SQL enabled complex datasets to be transformed into clear, accurate, and actionable business information.
+
+<img width="820" height="237" alt="image" src="https://github.com/user-attachments/assets/d79932d3-183d-4be4-bbf4-4a48c0d0395c" />
+
+<img width="855" height="345" alt="image" src="https://github.com/user-attachments/assets/4e3c08d8-1399-46e0-8986-b9754f505829" />
+
+<img width="853" height="270" alt="image" src="https://github.com/user-attachments/assets/60adfc6d-68fe-42af-8fdf-773e75d77da1" />
+
 
 ---
 
